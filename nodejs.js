@@ -1,7 +1,5 @@
+require('./xyz.js')
+const {calculateSum,x}=require('./sum.js')
+calculateSum(5,10)
 var name = "Kanav";
-var a = 10;
-var b = 20;
-
-console.log(a)
-console.log(b)
 console.log(name)
